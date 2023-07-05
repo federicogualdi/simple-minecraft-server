@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.61.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ecs": "^3.364.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
